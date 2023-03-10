@@ -1,5 +1,9 @@
 # Multimodal Short Video Data Set and Baseline Classification Model
-> If you have data / access to data / better model, please feel free to issue /pull requests / contact me wangzichaochaochao@gmail.com
+-- Special Thanks to Dr. D.C Oza for Providing financial,and Model Training and Frontend Support of 2.9 VidGPT Update of 2023--
+--Thanks to Dr. Zheng for AI/DB Support and Dr. D.c Oza for AI/MT/FE Support--
+
+
+> If you have data / access to data / better model, please feel free to issue /pull requests / contact me wangzichaochaochao@gmail.com Or oza.desk@gmail.com
 
 This resource contains 50+ million(865G) multimodal short video data sets and TensorFlow2.0 multimodal short video classification model, aiming at creating a multimodal classification framework.
 
